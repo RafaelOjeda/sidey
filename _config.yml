@@ -16,7 +16,7 @@ permalink: pretty
 
 baseurl: ""
 
-highlighter: rogue
+highlighter: none
 
 exclude:
   - .jekyll-cache
