@@ -1,13 +1,8 @@
----
-layout: page
-title: About
----
+# Sidey
 
-*No set theme. Just a collection of everything.*
+Sidey is a simple and minimalistic jekyll blogging theme.
 
 ### Features
-
-I started this during quarantine on 5/7/2020
 
 - Responsive design
 - Inline CSS
